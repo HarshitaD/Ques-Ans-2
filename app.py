@@ -6,4 +6,4 @@ def hello():
     return "Hello World!"
 
 if __name__ == '__main__':
-    app_lulu.run(port=5000)
+    app_lulu.run()
